@@ -6,10 +6,9 @@
 # Gianlucca Fiori Oliveira
 Hello!
 
-My name is Gianlucca
+Here is where I host my personal Data Science projects. 
 
 
-**Background in:** Python, C and C++, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://bit.ly/3iUpVXY)
@@ -19,7 +18,8 @@ My name is Gianlucca
 ## Projetos:
 See my projects:
 
-* 
+* **Data Analysis from Airbnb: 
+*
 
 ---
 
