@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner-gian.png" >
+  <img src="banner-gian2.png" >
 </p>
 
 # Gianlucca Fiori Oliveira
